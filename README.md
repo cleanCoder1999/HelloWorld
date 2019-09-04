@@ -1,4 +1,6 @@
-# HelloWorld
-Dummy repository for getting along GitHub functions
+# Wiki Repository
 
-This README.md file contains changes which will in further steps be comitted to the master branch.
+Hi there!
+This Repository contains documentation to diverse topics of computer science. Since I like having every important document at one place, I created this repository.
+
+Navigate to the **Wiki Tab** for more information and to get a short overview about the covered topics.
